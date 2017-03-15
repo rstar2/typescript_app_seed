@@ -61,3 +61,5 @@ dll/
 # IDE #
 .idea/
 *.swp
+
+/.vscode/symbols.json
